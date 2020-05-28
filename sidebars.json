@@ -1,6 +1,6 @@
 {
     "docs": [
-        { "type": "link", "label": "Introduction", "href": "/" },
+        "introduction",
         "getting-started",
         {
             "type": "category",

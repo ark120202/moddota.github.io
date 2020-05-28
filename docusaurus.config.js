@@ -21,6 +21,7 @@ module.exports = {
                 docs: {
                     path: "_articles",
                     routeBasePath: "/",
+                    homePageId: "introduction",
                     sidebarPath: require.resolve("./sidebars.json"),
                     editUrl: "https://github.com/ModDota/moddota.github.io/edit/source/",
                     remarkPlugins: [require("./docusaurus/remark-component-provider")],
